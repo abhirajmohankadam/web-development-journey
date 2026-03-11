@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+}
+
+.dotted-border {
+    border: 1px dotted blue;
+}
+
+.card-container {
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile-image {
+    width: 150px;
+}

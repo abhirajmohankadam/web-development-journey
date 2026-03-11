@@ -1,0 +1,7 @@
+.image-div {
+    height: 200px;
+    width: 300px;
+    background-image: url("../../images/mars-1.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
