@@ -1,0 +1,41 @@
+body {
+    background-color: #3C3C3C;
+}
+
+.google-logo img{
+    width: 300px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    border: 1px solid black;
+}
+
+input {
+    height: 40px;
+    display: block;
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.btn {
+    display: block;
+    margin: auto;
+    height: 100px;
+    width: 90px;
+    border: 1px solid black;
+}
+
+.btn:hover {
+    
+}
+
+button {
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 50px;
+}
