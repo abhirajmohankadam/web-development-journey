@@ -2,19 +2,34 @@ body {
     margin: 20px;
 }
 
+.card-container p {
+    font-style: italic;
+}
+
+.card-container img {
+    border-radius: 25px;
+}
+
 .card-container {
-    margin: auto;
+    margin: 100px auto;
     width: 400px;
     padding: 20px;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
     color: black;
-    border: 2px solid purple;
-    background-color: lightblue;
+    border: 2px solid #003566;
+    background-color: #ffd60a;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+    box-shadow: 4px 4px black;
+}
+
+.card-container:hover {
+    box-shadow: none;
 }
 
 .profile-image {
     width: 150px;
 }
+
