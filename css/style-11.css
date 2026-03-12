@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Street;
+    src: url("street-bit/Street\ Bit.ttf");
+}
+
+body {
+    font-family: Street;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ads {
+    background-color: yellow;
+    border: 3px solid green;
+    color: black;
+    width: 380px;
+    text-align: center;
+}
+
+.cta{
+    color: red;
+}

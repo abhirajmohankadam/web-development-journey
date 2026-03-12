@@ -1,0 +1,17 @@
+@font-face {
+    font-family: TheGodfather;
+    src: url("the-godfather/TheGodfather-v2.ttf");
+}
+
+@font-face {
+    font-family: Street;
+    src: url(street-bit/Street\ Bit.ttf);
+}
+
+h1 {
+    font-family: TheGodfather;
+}
+
+h2 {
+    font-family: Street;
+}
