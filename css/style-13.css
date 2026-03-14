@@ -1,9 +1,10 @@
 .container {
     border: 8px solid black;
-    height: 260px;
+    height: 360px;
     display: flex;
     justify-content: start;
-    align-items: start;
+    align-items: center;
+    flex-direction: column;
 }
 
 .items {
