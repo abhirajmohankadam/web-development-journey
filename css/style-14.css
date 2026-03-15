@@ -1,0 +1,18 @@
+a {
+    background-color: red;
+    display: block;
+    padding: 40px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: rgb(190, 0, 0);
+    font-size: 55px;
+
+}

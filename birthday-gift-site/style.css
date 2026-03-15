@@ -37,6 +37,8 @@ body {
 
 .profile-image {
     border-radius: 50%;
+    width: 300px;
+    height: 300px;
     box-shadow: 0px 0px 8px black;
 }
 
@@ -62,5 +64,29 @@ body {
     width: 450px;
     border: 6px solid white;
     border-radius: 10px;
+}
+
+.gift-image:hover {
+    margin: auto;
+    background-image: url("images/happy-jetha.gif");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 450px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+}
+
+.gift-image-1:hover {
+    background-image: url("images/stylish-jetha.gif");
+}
+
+.gift-image-2:hover {
+    background-image: url("images/angry-jetha.gif");
+}
+
+.gift-image-3:hover {
+    background-image: url("images/selfish-jetha.gif");
 }
 
