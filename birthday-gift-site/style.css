@@ -90,3 +90,12 @@ body {
     background-image: url("images/selfish-jetha.gif");
 }
 
+.gift-height {
+    height: 300px;
+    background-position: top;
+}
+
+.gift-image-4:hover {
+    height: 300px;
+    background-image: url("images/cheers-jetha.gif");
+}
